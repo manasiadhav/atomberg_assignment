@@ -1,0 +1,4 @@
+youtube-search-python>=1.6.6
+textblob>=0.17.1
+pandas>=2.0.0
+numpy>=1.24.0
